@@ -1,5 +1,7 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
 
+# Name:Iswarya P
+# Reg no:212223230082
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
